@@ -1,4 +1,4 @@
-{ "stack": "heroku-20",
+{ "stack": "heroku-18",
   "name": "IOT ESP8266 Google Home",
   "description": "Works with IOT devices over the firewall with google home",
   "repository": "https://github.com/nassir-malik/IOT-ESP8266-Google-Home",
