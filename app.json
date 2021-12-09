@@ -5,3 +5,6 @@
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": ["esp8266", "google home", "wihtout ifttt", "iot", "arduino"]
 }
+{
+  "stack": "heroku-20"
+}
